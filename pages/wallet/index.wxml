@@ -1,0 +1,20 @@
+<!--pages/wallet/index.wxml-->
+
+<view class="container">
+    <view class="overage">
+        <view>
+            <text class="overage-header">我的余额</text>
+        </view>
+         <view>
+            <text class="overage-content">{{money}}</text>
+        </view>
+         <view>
+            <text class="overage-desc">余额说明</text>
+        </view>
+    </view>
+    <button class="btn-charge">充值</button>
+    <view class="my-ticket">
+        <text>我的用车券</text>
+        <text>{{ticket}}张></text>
+    </view>
+</view>
