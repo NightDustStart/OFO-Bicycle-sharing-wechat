@@ -12,3 +12,6 @@
 #成功界面以及失败界面
 
 #租车逻辑的实现
+中间两个页面
+http://oonflt2ea.bkt.clouddn.com/user.png
+http://oonflt2ea.bkt.clouddn.com/index.png
