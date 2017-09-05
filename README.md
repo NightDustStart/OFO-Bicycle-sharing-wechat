@@ -13,5 +13,5 @@
 
 #租车逻辑的实现
 中间两个页面
-{user}(http://oonflt2ea.bkt.clouddn.com/user.png)
-{index}(http://oonflt2ea.bkt.clouddn.com/index.png)
+!{user}(http://oonflt2ea.bkt.clouddn.com/user.png)
+!{index}(http://oonflt2ea.bkt.clouddn.com/index.png)
